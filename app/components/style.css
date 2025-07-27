@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.c{
+    display: flex;
+    align-items: center;
+}
+.nav{
+    justify-content: space-around;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navLeft{
+    gap: 100px;
+}
+.cursor{
+    cursor: pointer;
+}
